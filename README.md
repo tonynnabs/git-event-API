@@ -1,5 +1,17 @@
 Challenge url <a href="https://github.com/ben-x/express-dataset">https://github.com/ben-x/express-dataset</a>
 
+## Installation / Cloning Git
+<ul>
+    <li>Step 1: git clone https://github.com/tonynnabs/git-event-API.git projectName</li>
+    <li>Step 2: composer install</li>
+    <li>Step 3: npm install</li>
+    <li>Step 4: cp .env.example .env</li>
+    <li>Step 6: php artisan migrate</li>
+ </ul>
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
